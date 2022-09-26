@@ -1,0 +1,60 @@
+.clear {
+	clear: both;
+}
+
+
+body {
+	width: 1025px;
+	margin: auto;
+}
+
+
+
+#mainArea {
+		font-family: Arial, Helvetica, sans-serif;
+		margin: auto;
+	}
+
+
+.sectionTitle {
+	font-size: 26px;
+	float: left;
+	width: 25%;
+	color: #cf8a05;
+	font-style: italic;
+	}
+
+
+.sectionTitle h1 {
+	font-weight: normal;
+	font-size: larger;	
+}
+
+
+
+
+.sectionContent {
+	float: right;
+	width: 72.5%;
+}
+
+
+.mainDetails {
+	border-bottom: solid 3px #cf8a05;
+}
+
+p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #181818;
+}
+
+
+
+.headerLanguage {
+    font-size: 45px;
+    text-align: center;
+    margin: 35px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #181818;
+}
